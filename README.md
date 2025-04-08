@@ -1,3 +1,7 @@
+# Deployed on Vercel link:-
+https://responsive-react-carousel-component.vercel.app
+
+---
 # Demo Video :-
 You can see the demo video of this react component through this link.
 Link: https://drive.google.com/file/d/1VVi3TqwMAQBWU_o15Aqpxjbc2YuqXHLe/view?usp=sharing
